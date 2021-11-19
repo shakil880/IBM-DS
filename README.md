@@ -1,1 +1,1 @@
-IBM Data Science AI Capstone Projects.
+IBM Data Science Capstone Projects.
